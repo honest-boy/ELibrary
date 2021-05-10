@@ -1,9 +1,9 @@
-# ELibrary
-# My academic project was E-Library (Online Linrary Management System).
-# I used programming language in this project JAVA(Servlets) for backend.
-# HTML/CSS for user interface.
-# MySQL for Database to store the data of library by JDBC Concept
-# In this project I used Three table to Store the data
+#. ELibrary
+#. My academic project was E-Library (Online Linrary Management System).
+#. I used programming language in this project JAVA(Servlets) for backend.
+#. HTML/CSS for user interface.
+#. MySQL for Database to store the data of library by JDBC Concept
+#. In this project I used Three table to Store the data
 
 #.       Table Name
 #.       1--------- E_BOOK ------------
